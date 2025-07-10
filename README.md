@@ -3,7 +3,7 @@ EDA for retail sales
 <br>
 Requirements for this project are:
 <br>
-Tech Stack we used :
+Tech Stack I used :
 - Python
 - Pandas
 - NumPy
@@ -11,4 +11,4 @@ Tech Stack we used :
 - Seaborn
 - Jupyter Notebook
 
-Dataset link we used is:"C:\Users\s1581\Downloads\archive\retail_sales_dataset.csv"
+Dataset link I used is:"C:\Users\s1581\Downloads\archive\retail_sales_dataset.csv"
