@@ -11,3 +11,4 @@ Tech Stack we used :
 - Seaborn
 - Jupyter Notebook
 
+Dataset link we used is:"C:\Users\s1581\Downloads\archive\retail_sales_dataset.csv"
